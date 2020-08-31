@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { CounterApp } from './components/01-useState/CounterApp';
+import { CounterWithCustomhooks } from './components/01-useState/CounterWithCustomhooks';
 
-ReactDOM.render(<CounterApp />, document.getElementById('root'));
+ReactDOM.render(<CounterWithCustomhooks />, document.getElementById('root'));
