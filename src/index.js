@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { CounterWithCustomhooks } from './components/01-useState/CounterWithCustomhooks';
+import { SimpleForm } from './components/02-useEffect/SimpleForm';
 
-ReactDOM.render(<CounterWithCustomhooks />, document.getElementById('root'));
+ReactDOM.render(<SimpleForm />, document.getElementById('root'));
