@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { RealExampleRef } from './components/04-useRef/RealExampleRef';
+import { LayoutEffect } from './components/05-useLayoutEffect/LayoutEffect';
 
-ReactDOM.render(<RealExampleRef />, document.getElementById('root'));
+ReactDOM.render(<LayoutEffect />, document.getElementById('root'));
