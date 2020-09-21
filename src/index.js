@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { MemoHook } from './components/06-memos/MemoHooks';
+import { Father } from './components/07-tarea-memo/Father';
 
-ReactDOM.render(<MemoHook />, document.getElementById('root'));
+ReactDOM.render(<Father />, document.getElementById('root'));
