@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { LayoutEffect } from './components/05-useLayoutEffect/LayoutEffect';
+import { Memorize } from './components/06-memos/Memorize';
 
-ReactDOM.render(<LayoutEffect />, document.getElementById('root'));
+ReactDOM.render(<Memorize />, document.getElementById('root'));
