@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Father } from './components/07-tarea-memo/Father';
+import { TodoApp } from './components/08-useReducer/TodoApp';
 
-ReactDOM.render(<Father />, document.getElementById('root'));
+ReactDOM.render(<TodoApp />, document.getElementById('root'));
+
+// import './components/08-useReducer/intro-reducer'
