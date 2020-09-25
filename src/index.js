@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { TodoApp } from './components/08-useReducer/TodoApp';
+import { MainApp } from './components/09-useContext/MainApp';
 
-ReactDOM.render(<TodoApp />, document.getElementById('root'));
+ReactDOM.render(<MainApp />, document.getElementById('root'));
 
 // import './components/08-useReducer/intro-reducer'
